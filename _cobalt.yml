@@ -1,0 +1,7 @@
+
+site:
+  title: Notts Rust
+  description: Nottingham Rust
+  base_url: https://notts.rs
+posts:
+  rss: rss.xml
